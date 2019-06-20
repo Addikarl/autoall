@@ -1,0 +1,2 @@
+# autoall
+hi
